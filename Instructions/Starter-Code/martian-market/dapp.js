@@ -3,7 +3,7 @@ import auctionJson from "./MartianAuction.json";
 
 const Web3 = require("web3");
 
-const contractAddress = ""; // insert MartianMarket contract address here
+const contractAddress = "0xd8c76D8BA8782cDd5022fA02448b5052dcaCe8fc"; // insert MartianMarket contract address here
 
 const dApp = {
   ethEnabled: function() {
